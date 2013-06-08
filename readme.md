@@ -6,10 +6,7 @@
 
 **Language:** Javascript
 
-**Tools:** 
-* [Twitter bootstrap](http://twitter.github.com/bootstrap/)
-* [grunt-bbb](https://github.com/backbone-boilerplate/grunt-bbb)
-* [highcharts](http://www.highcharts.com/)
+**Tools:** [Twitter bootstrap](http://twitter.github.com/bootstrap/), [grunt-bbb](https://github.com/backbone-boilerplate/grunt-bbb), [highcharts](http://www.highcharts.com/)
 
 ## Federal Tax Calculator
 
@@ -17,17 +14,12 @@
 
 **Language:** Javascript
 
-**Tools:** 
-* [Twitter bootstrap](http://twitter.github.com/bootstrap/)
-* [grunt-bbb](https://github.com/backbone-boilerplate/grunt-bbb)
-* [highcharts](http://www.highcharts.com/)
+**Tools:** [Twitter bootstrap](http://twitter.github.com/bootstrap/), [grunt-bbb](https://github.com/backbone-boilerplate/grunt-bbb), [highcharts](http://www.highcharts.com/)
 
+## Simple CMS Frontend
 
-## Simple CMS
-**Demo: ** [http://lixu-elance.appspot.com/oakhillsoftware/index.html](http://lixu-elance.appspot.com/oakhillsoftware/index.html)
+**Demo:** [http://lixu-elance.appspot.com/oakhillsoftware/index.html](http://lixu-elance.appspot.com/oakhillsoftware/index.html)
 
 **Language:** Javascript
 
-**Tools:** 
-* [Twitter bootstrap](http://twitter.github.com/bootstrap/)
-* [grunt-bbb](https://github.com/backbone-boilerplate/grunt-bbb)
+**Tools:** [Twitter bootstrap](http://twitter.github.com/bootstrap/), [grunt-bbb](https://github.com/backbone-boilerplate/grunt-bbb)
